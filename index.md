@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/zer0overflow/zer0overflow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there my name is Sharon a 17 year old kid born in India and raised in Salalah, Oman a country in the middle east. Growing up 
+i was inspired by technology by how a piece of rock was converted into a device with some lightning in it to process tons of 
+information and how this 1 and 0's could bring up 4k displays. I learned to program in batch intially. Then i extended myself 
+with Visual Studio and went on learning new languages. When i was in my 8th grade I went for advanced python programming. Then I
+was introduced to [Kali](https://www.kali.org) which i fell in love. I went on hacking stuff using the tools in Kali till a point
+where I thought that "I didn't make this tools, it's not me the one who's doing tht hacks. It's these softwares" and then i started to learn how to code for breaking stuff and saw the dark side of programming and now I'm doing my 12th grade here stuck.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zer0overflow/zer0overflow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact me here! 
+### Instagram
+    - Contact me (here)[https://www.instagram.com/zero.overflow] if you want me to give a reply!
+# Here's a project I am working on now!
+  - Want a cheap RubberDucky to look like a pendrive and to type like a keyboard?
+    - (DigiPwn)[pages.github.io/zer0overflow]
