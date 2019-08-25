@@ -6,3 +6,11 @@ information and how this 1 and 0's could bring up 4k displays. I learned to prog
 with Visual Studio and went on learning new languages. When i was in my 8th grade I went for advanced python programming. Then I
 was introduced to [Kali](https://www.kali.org) which i fell in love. I went on hacking stuff using the tools in Kali till a point
 where I thought that "I didn't make this tools, it's not me the one who's doing tht hacks. It's these softwares" and then i started to learn how to code for breaking stuff and saw the dark side of programming and now I'm doing my 12th grade here stuck.
+
+# Contact me here! 
+ - if you want me to give a reply! (Instagram)[https://www.instagram.com/zero.overflow] 
+
+
+# Here's a project I am working on now!
+- Want a cheap RubberDucky to look like a pendrive and to type like a keyboard?
+    - (DigiPwn)[https://zer0overflow.github.io/DigiPwn/]
