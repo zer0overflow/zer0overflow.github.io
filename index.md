@@ -8,9 +8,9 @@ was introduced to [Kali](https://www.kali.org) which i fell in love. I went on h
 where I thought that "I didn't make this tools, it's not me the one who's doing tht hacks. It's these softwares" and then i started to learn how to code for breaking stuff and saw the dark side of programming and now I'm doing my 12th grade here stuck.
 
 # Contact me here! 
- - if you want me to give a reply! (Instagram)[https://www.instagram.com/zero.overflow] 
+ - if you want me to give a reply! [Instagram](https://www.instagram.com/zero.overflow)
 
 
 # Here's a project I am working on now!
 - Want a cheap RubberDucky to look like a pendrive and to type like a keyboard?
-    - (DigiPwn)[https://zer0overflow.github.io/DigiPwn/]
+    - [DigiPwn][https://zer0overflow.github.io/DigiPwn/]
