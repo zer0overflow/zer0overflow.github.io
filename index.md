@@ -12,5 +12,4 @@ where I thought that "I didn't make this tools, it's not me the one who's doing 
 
 
 # Here's a project I am working on now!
-- Want a cheap RubberDucky to look like a pendrive and to type like a keyboard?
-    - [DigiPwn](https://zer0overflow.github.io/DigiPwn/)
+- Want a cheap RubberDucky to look like a pendrive and to type like a keyboard? [DigiPwn](https://zer0overflow.github.io/DigiPwn/)
